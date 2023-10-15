@@ -1,10 +1,10 @@
-### Script Xray Only
+# `Script Xray Only`
 - Tidak Untuk Di perjual belikan !
 
-### Install Script 
+## `Install Script`
 <pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/zheevpn/xray/main/xrayy.sh && chmod +x xrayy.sh && screen -S install ./xrayy.sh && rm -rf xrayy.sh</code></pre>
 
-### Perintah Update 
+## `Perintah Update`
 <pre><code>wget https://raw.githubusercontent.com/zheevpn/xray/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
